@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#demo
+{
+    background-color: rgb(43, 226, 119);
+    text-decoration: dotted;
+
+}
