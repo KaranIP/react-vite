@@ -1,5 +1,5 @@
 import React from 'react'
-import '/src/Final Task/home.css'
+import '/src/home.css'
 import { useNavigate } from 'react-router-dom'
 
 const HomePage = () => {

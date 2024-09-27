@@ -1,5 +1,5 @@
 import React from 'react'
-import '/src/Final Task/placement.css'
+import '/src/placement.css'
 
 const Placement = () => {
   return (

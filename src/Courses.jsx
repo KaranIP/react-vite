@@ -1,5 +1,5 @@
 import React from 'react'
-import '/src/Final Task/coursess.css'
+import '/src/coursess.css'
 
 const Courses = () => {
   const course = [

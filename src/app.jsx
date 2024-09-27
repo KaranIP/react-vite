@@ -85,13 +85,13 @@ export default App */
 
 import React from 'react'
 import {HashRouter, Route, Routes } from 'react-router-dom'
-import LayoutPage from './Final Task/LayoutPage'
-import HomePage from './Final Task/HomePage'
-import ContactPage from './Final Task/ContactPage'
-import EventsPage from './Final Task/EventsPage'
-import Courses from './Final Task/Courses'
-import Placement from './Final Task/Placement'
-import ErrorPage from './Final Task/ErrorPage'
+import LayoutPage from './LayoutPage'
+import HomePage from './HomePage'
+import ContactPage from './ContactPage'
+import EventsPage from './EventsPage'
+import Courses from './Courses'
+import Placement from './Placement'
+import ErrorPage from './ErrorPage'
 
 const App = () => {
   return (
@@ -166,6 +166,9 @@ export default App
 
 /* import React from 'react'
 import ToDOList from './ToDOList'
+import ContactPage from './ContactPage';
+import ContactPage from './ContactPage';
+import ContactPage from './ContactPage';
 
 const App = () => {
   return (

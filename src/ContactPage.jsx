@@ -1,6 +1,6 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
-import '/src/Final Task/ContactPage.css'
+import '/src/ContactPage.css'
 import { FaBackward } from "react-icons/fa";
 
 const ContactPage = () => {

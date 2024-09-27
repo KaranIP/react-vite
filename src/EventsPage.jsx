@@ -1,6 +1,6 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
-import '/src/Final Task/event.css'
+import '/src/event.css'
 
 const EventsPage = () => {
 
