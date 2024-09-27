@@ -84,7 +84,7 @@ export default App */
 // TASK - FINAL -->Routing
 
 import React from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom'
 import LayoutPage from './Final Task/LayoutPage'
 import HomePage from './Final Task/HomePage'
 import ContactPage from './Final Task/ContactPage'
@@ -96,7 +96,7 @@ import ErrorPage from './Final Task/ErrorPage'
 const App = () => {
   return (
     <>
-    <BrowserRouter>
+    <HashRouter>
     <Routes>
       <Route path='/' element={<LayoutPage/>}>
     <Route index element={<HomePage/>}/>
@@ -107,7 +107,7 @@ const App = () => {
     <Route path='*' element={<ErrorPage/>}/>
       </Route>
     </Routes>
-    </BrowserRouter>
+    </HashRouter>
     </>
   )
 }
