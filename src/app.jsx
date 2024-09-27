@@ -84,7 +84,7 @@ export default App */
 // TASK - FINAL -->Routing
 
 import React from 'react'
-import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom'
+import {HashRouter, Route, Routes } from 'react-router-dom'
 import LayoutPage from './Final Task/LayoutPage'
 import HomePage from './Final Task/HomePage'
 import ContactPage from './Final Task/ContactPage'
