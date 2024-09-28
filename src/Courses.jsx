@@ -8,6 +8,8 @@ const Courses = () => {
     { title: 'JavaScript', description: 'Get hands-on with JavaScript and add interactivity to your sites.', img: 'src/photos/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg' },
     { title: 'React.js', description: 'Dive into React.js and build dynamic web applications.', img: 'src/photos/react-1-logo-png-transparent.png' }
   ];
+
+   
     
   
     return (
