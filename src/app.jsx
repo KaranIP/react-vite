@@ -83,7 +83,7 @@ export default App */
 
 // TASK - FINAL -->Routing
 
-/* import React from 'react'
+import React from 'react'
 import {HashRouter, Route, Routes } from 'react-router-dom'
 import LayoutPage from './LayoutPage'
 import HomePage from './HomePage'
@@ -112,7 +112,7 @@ const App = () => {
   )
 }
 
-export default App */
+export default App
 
 /* import React from 'react'
 import LayoutPage from './Final Task/LayoutPage'
@@ -178,7 +178,7 @@ const App = () => {
 
 export default App */
 
-import React from 'react'
+/* import React from 'react'
 import Practise from './practise/Practise'
 
 const App = () => {
@@ -189,4 +189,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App */
